@@ -9,3 +9,6 @@
 - Who are our customers?
 - What is driving campaign performance and buyer decision-making?
 - As a BI Developer, I built an interactive Power BI dashboard to surface actionable insights.
+
+## 🖥️ Dashboard Overview
+
