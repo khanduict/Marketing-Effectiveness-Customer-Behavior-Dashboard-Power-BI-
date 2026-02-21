@@ -1,4 +1,4 @@
-# 📊 Marketing Effectiveness & Customer Intelligence Dashboard (Power BI)
+# 📊 Marketing Effectiveness & Customer Behavior Dashboard (Power BI)
 
 ### Tool Stack: Power BI | DAX | Data Modeling | Power Query
 
