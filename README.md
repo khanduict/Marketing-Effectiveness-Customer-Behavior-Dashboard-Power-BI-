@@ -114,27 +114,27 @@ Household size and income are stronger predictors of sales than digital engageme
 #### 🧠 Integrated Strategic Insights
 
 Across all three dashboards, a consistent pattern emerges:
-Revenue is driven by premium products (Wine & Meat).
-High-income customers significantly outperform other segments.
-Smaller households convert more effectively.
-Campaign structure + product mix + channel allocation jointly impact performance.
-Digital channels are under-optimized relative to store performance.
+- Revenue is driven by premium products (Wine & Meat).
+- High-income customers significantly outperform other segments.
+- Smaller households convert more effectively.
+- Campaign structure + product mix + channel allocation jointly impact performance.
+- Digital channels are under-optimized relative to store performance.
 
 #### 📊 KPI Architecture Implemented
-Campaign KPIs
-Revenue by Campaign
-Purchase Volume
-Campaign Product Mix (%)
-Channel Contribution
-Customer KPIs
-Income Segmentation
-Age Distribution
-Education Level
-Household Composition
-Sales Drivers
-Campaign Acceptance Probability
-Income Threshold Impact
-Household Influence Factors
+- Campaign KPIs
+- Revenue by Campaign
+- Purchase Volume
+- Campaign Product Mix (%)
+- Channel Contribution
+- Customer KPIs
+- Income Segmentation
+- Age Distribution
+- Education Level
+- Household Composition
+- Sales Drivers
+- Campaign Acceptance Probability
+- Income Threshold Impact
+- Household Influence Factors
 
 #### 🏗️ Data Modeling Approach
 
