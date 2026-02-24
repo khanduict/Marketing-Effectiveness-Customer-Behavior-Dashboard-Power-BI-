@@ -24,7 +24,7 @@ The organization is in an early growth phase and requires data-driven clarity to
 - Determine key drivers influencing purchases and campaign acceptance
 
 ## 🖥️ Dashboard Overview
-
+![Alt text for the image](image-url)
 
 ### 1️⃣ Campaign Performance Dashboard
 ![Market Research Assignment dashboard_Page_1](https://github.com/user-attachments/assets/826e5808-3570-41e8-9b07-30d89ceb54b7)
